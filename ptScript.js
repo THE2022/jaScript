@@ -1,19 +1,19 @@
 //const axios = require("axios");
-var curTime = new Date().toLocaleString();
-var str =encodeURI('快手普通版脚本执行任务咯');
-var config = {
-  method: "get",
-  url: `http://www.pushplus.plus/send?token=86f655e5242744a4be3d3e764327d113&title=${curTime}&content=${str}&template=html`,
-  headers: {},
-};
+// var curTime = new Date().toLocaleString();
+// var str =encodeURI('快手普通版脚本执行任务咯');
+// var config = {
+//   method: "get",
+//   url: `http://www.pushplus.plus/send?token=86f655e5242744a4be3d3e764327d113&title=${curTime}&content=${str}&template=html`,
+//   headers: {},
+// };
 
-$axios(config)
-  .then(function (response) {
-    console.log(JSON.stringify(response.data));
-  })
-  .catch(function (error) {
-    console.log(error);
-  });
+// $axios(config)
+//   .then(function (response) {
+//     console.log(JSON.stringify(response.data));
+//   })
+//   .catch(function (error) {
+//     console.log(error);
+//   });
 /*
 IOS/安卓： 快手 普通版
 青龙-白虎

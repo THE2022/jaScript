@@ -12,6 +12,7 @@
     "jieba": "1.0.0",
     "js-base64": "3.7.2",
     "json5": "2.2.1",
+    "node-fetch": "^3.2.4",
     "png-js": "1.0.0",
     "prettytable": "0.3.1",
     "tough-cookie": "^2.5.0",

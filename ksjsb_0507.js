@@ -1151,7 +1151,7 @@ async function _0x505e51() {
     if (a["status"] == 0) {
       if (_0x459e63 >= a["version"]) {
         _0x2e716e = true;
-        _0x75eec0 = "https://jld.life/ql/ks/ks.json";
+        _0x75eec0 = "https://fastly.jsdelivr.net/gh/freysu/jaScript@main/ks.json";
         console["log"](a["msg"][a["status"]]);
         console['log'](a["updateMsg"]);
         console["log"]("现在运行的脚本版本是：1.07，最新脚本版本：" + a["latestVersion"]);
@@ -3474,7 +3474,7 @@ function Envcc(T, c) {
     'CMAOs': "setval",
     'dceom': 'ijzfe',
     'JighY': 'updateMsg',
-    'uwDzR': "https://jld.life/ql/ks/ks.json",
+    'uwDzR': "https://fastly.jsdelivr.net/gh/freysu/jaScript@main/ks.json",
     'CvmUM': function (S, a) {
       return S === a;
     },
@@ -3968,7 +3968,7 @@ function Envcc(T, c) {
       if (p["JpIGP"]('ViWHE', p["NOwog"])) {
         if (p["QwtqA"](q, i[p["LTEld"]])) {
           d = true;
-          u = "https://jld.life/ql/ks/ks.json";
+          u = "https://fastly.jsdelivr.net/gh/freysu/jaScript@main/ks.json";
           e[p["zptFf"]](A[p['EqCpB']][k[p["Qdwtu"]]]);
           o['log'](g["updateMsg"]);
           t["log"](p["UAuSH"](p["AVAsN"], L[p['prrOr']]));
